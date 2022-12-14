@@ -4,7 +4,7 @@ This is a solution to the [NFT](https://www.frontendmentor.io/challenges/social-
 
 ### Screenshot
 
-![](./design/desktop-design.jpg))
+![](./design/desktop-design.jpg)
 
 ### Built with
 
