@@ -6,6 +6,8 @@ This is a solution to the [NFT](https://www.frontendmentor.io/solutions/nft-prev
 
 ![](./design/desktop-design.jpg)
 
+## Test the project on your device: [Teste the project here!!!](https://nft-frontend-mentor.vercel.app/)
+
 ### Built with
 
 - Semantic HTML5;
